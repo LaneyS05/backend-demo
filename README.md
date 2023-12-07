@@ -1,0 +1,21 @@
+this is the backend of the repository
+if you want to see the front end visit linkhere
+
+# Getting started
+
+fork this repository
+open terminal and cd to desired folder
+
+# Available Scripts
+
+once inside you can run:
+
+# npm run dev
+
+Runs the app in the development mode.\
+Open [http://localhost:8080](http://localhost:8080) to view it in postman and MongoDB
+
+# Learn More
+
+this is only half of the progect (the backend)
+to see the rest please visit linkhere
