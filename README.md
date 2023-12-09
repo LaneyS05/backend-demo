@@ -1,6 +1,3 @@
-this is the backend of the repository
-if you want to see the front end visit linkhere
-
 # Getting started
 
 fork this repository
@@ -18,4 +15,6 @@ Open [http://localhost:8080](http://localhost:8080) to view it in postman and Mo
 # Learn More
 
 this is only half of the progect (the backend)
-to see the rest please visit linkhere
+to see the rest please visit
+
+# https://github.com/LaneyS05/frontend-demo
