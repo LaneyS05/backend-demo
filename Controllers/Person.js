@@ -45,7 +45,7 @@ async function deletePerson(req, res) {
 async function updatePerson(req, res) {
   try {
     const { id } = req.params;
-    const person = await Person.findByIdAndDelete(id);
+    const person = await Person.findByIdAndUpdate(id, ...req.body);
     res.json(person);
   } catch (error) {
     console.log(error);

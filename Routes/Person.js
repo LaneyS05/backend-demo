@@ -11,6 +11,6 @@ router.get("/all", getAllPeople);
 router.get("/:id", getPersonById);
 router.post("/", createPerson);
 router.delete("/:id", deletePerson);
-router.post("/", updatePerson);
+router.patch("/update", updatePerson);
 
 module.exports = router;
