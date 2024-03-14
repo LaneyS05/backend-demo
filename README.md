@@ -15,6 +15,6 @@ Open [http://localhost:8080](http://localhost:8080) to view it in postman and Mo
 # Learn More
 
 this is only half of the progect (the backend)
-to see the rest please visit
+to see the rest please visit the link below
 
 # https://github.com/LaneyS05/frontend-demo
